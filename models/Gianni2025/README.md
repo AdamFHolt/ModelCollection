@@ -1,4 +1,4 @@
-The folder contains the world builder files for idealized Philippine Sea Plate slab/tectonic geometries. These models were created by Zonglin Guo for the subduction models within Gianni et al., 2025 (doi...). Below are brief descriptions of the model files:
+The folder contains the world builder files for idealized Philippine Sea Plate slab/tectonic geometries. These models were created by Zonglin Guo (U. Miami) for the subduction models within Gianni et al., 2025 (doi...). Below are brief descriptions of the model files:
 
 1) single-slab.wb: 
 
