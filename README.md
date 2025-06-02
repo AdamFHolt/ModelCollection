@@ -8,3 +8,4 @@ If you would like to add your own models, please follow the template in the repo
 Below is the list of models available in the repository:
 
 * Saxena2023 : This folder contains the GWB files used to generate the plate boundary models on the Earth. A more detailed description can be found in the README file within this folder.
+* Gianni2025: This folder contains the GWB files used to create idealized Philippine Sea Plate slab and tectonic geometries. A more detailed description can be found in the README file within this folder.
